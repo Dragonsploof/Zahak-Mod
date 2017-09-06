@@ -1,0 +1,36 @@
+10003999 = {
+	name = "Hashm"
+	dynasty = 10004000
+	culture = zahaki
+	religion = krator
+	add_trait = "harun_blood"
+	add_trait = "brilliant_stratigest"
+	
+	951.2.5 = { birth = yes }
+	999.1.1 = { death = yes }
+}
+10004000 = {
+	name = "Hashm"
+	dynasty = 10004000
+	culture = zahaki
+	religion = krator
+	add_trait = "harun_blood"
+	add_trait = "grey_eminence"
+
+	father = 10003999
+
+	971.1.1 = { birth = yes } 
+	1054.9.15 = { death = yes } 
+}
+10004001 = {
+	name = "Ardeshir"
+	dynasty = 10004000
+	culture = zahaki
+	religion = krator
+	add_trait = "harun_blood"
+	
+	father = 10004000
+	
+	1000.1.1 = { birth = yes }
+	1087.4.11 = { death = yes }
+}

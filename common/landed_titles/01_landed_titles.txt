@@ -1,0 +1,93 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+
+
+
+e_harun = {
+	color={ 39 216 20 }
+	color2={ 255 255 20 }
+	
+	capital = 1 # c_zahakpolis
+	culture = zahaki
+	
+	k_zahakia = {
+		color={ 29 226 15 }
+		color2={ 255 255 255 }
+		
+		capital = 1 # c_zahakpolis
+		culture = zahaki
+		
+		d_zahakia = {
+			color={ 9 246 5 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 1 province_id = 2 province_id = 3 province_id = 4 } }
+				}
+			}
+			capital = 1 # c_zahakpolis
+			
+			c_zahakpolis = { # 1
+				color={ 255 0 0 }
+				color2={ 255 255 255 }
+				
+				b_zahakpolis = {
+				}
+				b_zahakpolis_2 = {
+				}
+				b_zahakpolis_3 = {
+				}
+				b_zahakpolis_4 = {
+				}
+				b_zahakpolis_5 = {
+				}
+				b_zahakpolis_6 = {
+				}
+				b_zahakpolis_7 = {
+				}
+			}
+			c_neo_metop = { # 3
+				color={ 200 10 10 }
+				color2={ 255 255 255 }
+				
+				b_neo_metop = {
+				}
+				b_neo_metop_2 = {
+				}
+				b_neo_metop_3 = {
+				}
+			}
+			c_pars = { # 4
+				color={ 255 100 100 }
+				color2={ 255 255 255 }
+				
+				b_pars = {
+				}
+				b_pars_2 = {
+				}
+				b_pars_3 = {
+				}
+				b_pars_4 = {
+				}
+				b_pars_5 = {
+				}
+			}
+			c_vaciton = { # 2
+				color={ 150 20 20 }
+				color2={ 255 255 255 }
+				
+				b_vaciton = {
+				}
+				b_vaciton_2 = {
+				}
+				b_vaciton_3 = {
+				}
+				b_vaciton_4 = {
+				}
+				b_vaciton_5 = {
+				}
+			}
+		}
+	}
+}

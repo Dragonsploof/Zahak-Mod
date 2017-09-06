@@ -1,0 +1,37 @@
+bm_the_hashmids = {
+	name = "BM_THE_HASHMIDS_ERA"
+	desc = "BM_THE_HASHMIDS_INFO"
+	date = 1000.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+	
+	selectable_character = {
+	id = 10004000 # Hashm
+	age = 21
+	name = ERA_CHAR_NAME_10004000
+	title = e_harun
+	title_name = HARUN
+		
+	character = {
+	name = "Hashm"
+	dynasty = 10004000
+	dna = "bnbpkchgmjl"
+	culture = zahaki
+	religion = krator
+	government = feudal_government
+	    }
+	}
+
+}
+
+bm_the_helonids = {
+	name = "BM_THE_HELONIDS_ERA"
+	desc = "BM_THE_HELONIDS_INFO"
+	date = 1337.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_4
+
+}
