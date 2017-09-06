@@ -1,0 +1,21 @@
+# c_zahakpolis
+
+# County Title
+title = c_zahakpolis
+
+# Settlements
+max_settlements = 7
+
+b_zahakpolis = castle
+#b_zahakpolis_2 = city
+#b_zahakpolis_3 = temple
+#b_zahakpolis_4 = castle
+#b_zahakpolis_5 = city
+#b_zahakpolis_6 = temple
+#b_zahakpolis_7 = castle
+
+# Misc
+culture = zahaki
+religion = krator
+terrain = farmlands
+#History

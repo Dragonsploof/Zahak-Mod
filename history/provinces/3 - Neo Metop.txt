@@ -1,0 +1,17 @@
+# c_neo_metop
+
+# County Title
+title = c_neo_metop
+
+# Settlements
+max_settlements = 3
+
+b_neo_metop = castle
+#b_neo_metop_2 = city
+#b_neo_metop_3 = temple
+
+# Misc
+culture = zahaki
+religion = krator
+terrain = plains
+#History

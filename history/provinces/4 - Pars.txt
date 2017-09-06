@@ -1,0 +1,19 @@
+# c_pars
+
+# County Title
+title = c_pars
+
+# Settlements
+max_settlements = 5
+
+b_pars = castle
+#b_pars_2 = city
+#b_pars_3 = temple
+#b_pars_4 = castle
+#b_pars_5 = city
+
+# Misc
+culture = zahaki
+religion = krator
+terrain = plains
+#History

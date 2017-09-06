@@ -1,0 +1,19 @@
+# c_vaciton
+
+# County Title
+title = c_vaciton
+
+# Settlements
+max_settlements = 5
+
+b_vaciton = castle
+#b_vaciton_2 = city
+#b_vaciton_3 = temple
+#b_vaciton_4 = castle
+#b_vaciton_5 = city
+
+# Misc
+culture = zahaki
+religion = krator
+terrain = farmlands
+#History
